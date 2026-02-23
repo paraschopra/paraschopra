@@ -6,6 +6,9 @@ Founder & CEO of [Lossfunk](https://lossfunk.com), an AI research lab exploring 
 
 ## Featured Projects (Recent)
 
+### 🕹️ [Murmuration](https://github.com/paraschopra/murmuration)
+A Chrome extension that transforms your ChatGPT and Claude conversation topics into beautiful, animated black-and-white visualizations on every new tab.
+
 ### 🎓 [Interactive Explainers](https://github.com/paraschopra/explainers) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/explainers/)
 Interactive, visual explainers on topics like **diffusion models**, the **Fourier Transform**, **biological scaling laws**, **cellular automata**, and **how LLMs work**. Built for understanding through play.
 
