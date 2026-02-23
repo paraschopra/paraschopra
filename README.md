@@ -12,6 +12,9 @@ Interactive, visual explainers on topics like **diffusion models**, the **Fourie
 ### 🔬 [1D Cellular Automata Playground](https://github.com/paraschopra/1d-ca) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/1d-ca/)
 An interactive exploration of all 256 elementary cellular automata rules. Visualize rule space structure, sweep initial conditions, and measure information propagation through spacetime.
 
+### ⚕️ [LongShot](https://github.com/paraschopra/longshot) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](Live at: https://paraschopra.github.io/longshot/)
+Get personalized screening recommendations for now and the future. Add them directly to your calendar.
+
 ### 🕹️ [Atari from Pixels](https://github.com/paraschopra/atari-pixels)
 Training a neural network to play Atari games directly from raw pixel inputs using deep reinforcement learning.
 
