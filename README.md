@@ -12,7 +12,7 @@ A Chrome extension that transforms your ChatGPT and Claude conversation topics i
 ### ⚕️ [LongShot](https://github.com/paraschopra/longshot) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/longshot/)
 Get personalized screening recommendations for now and the future. Add them directly to your calendar.
 
-### 🎓 [Interactive Explainers](https://github.com/paraschopra/explainers) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/explainers/)
+### 🎓 [Explainers](https://github.com/paraschopra/explainers) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/explainers/)
 Interactive, visual explainers on topics like **diffusion models**, the **Fourier Transform**, **biological scaling laws**, **cellular automata**, and **how LLMs work**. Built for understanding through play.
 
 ### 🔬 [1D Cellular Automata Playground](https://github.com/paraschopra/1d-ca) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/1d-ca/)
