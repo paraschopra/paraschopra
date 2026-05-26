@@ -6,6 +6,12 @@ Founder & CEO of [Lossfunk](https://lossfunk.com), an AI research lab exploring 
 
 ## Featured Projects (Recent)
 
+### 🧑‍🔬 [AutoVoila](https://github.com/paraschopra/autovoila)
+Lossfunk's autoresearch prompt for beginner / student researchers in ML/AI.
+
+### 🧑‍🔬 [Make Pages Interactive Skill](https://github.com/paraschopra/make-pages-interactive)
+A Claude Code skill that turns any folder of static HTML pages into a live commenting surface. Highlight text, click an element, leave a note — the comment lands in a local inbox that Claude reads and responds to by editing the page. The page auto-reloads with a walkthrough of what changed.
+
 ### 🍄 [Vibe Psychophysics](https://github.com/paraschopra/vibe-psychophysics) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/vibe-psychophysics/)
 A collection of classic perception and cognition experiments you can run in your browser. Each experiment includes background theory, an interactive paradigm, data collection, and results visualization.
 
