@@ -21,6 +21,8 @@ A Chrome extension that transforms your ChatGPT and Claude conversation topics i
 ### ⚕️ [LongShot](https://github.com/paraschopra/longshot) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/longshot/)
 Get personalized screening recommendations for now and the future. Add them directly to your calendar.
 
+## Explainers
+
 ### 🎓 [Explainers](https://github.com/paraschopra/explainers) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/explainers/)
 Interactive, visual explainers on topics like **diffusion models**, the **Fourier Transform**, **biological scaling laws**, **cellular automata**, and **how LLMs work**. Built for understanding through play.
 
@@ -30,6 +32,11 @@ A presentation I gave on how LLMs work.
 ### 🔬 [1D Cellular Automata Playground](https://github.com/paraschopra/1d-ca) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/1d-ca/)
 An interactive exploration of all 256 elementary cellular automata rules. Visualize rule space structure, sweep initial conditions, and measure information propagation through spacetime.
 
+## Misc
+
+### 🪄 [AI Chinese Whispers](https://paraschopra.github.io/ai-chinese-whispers/)
+What happens if you do captioning and image generation multiple times?
+
 ### 🕹️ [Atari from Pixels](https://github.com/paraschopra/atari-pixels)
 Training a neural network to play Atari games directly from raw pixel inputs using deep reinforcement learning.
 
@@ -38,8 +45,6 @@ Detects logical contradictions in text using two approaches: embedding-based inc
 
 ### 🔗 [CrossQuery Chrome Extension](https://github.com/paraschopra/crossquery-extension)
 A browser extension that simultaneously searches on reddit, hacker news and other websites as you do Google searches.
-
-## Old Projects
 
 ### 🎨 [Abstract Art Neural Network](https://github.com/paraschopra/abstract-art-neural-network)
 Generating abstract art through neural networks in PyTorch. Feed in parameters, get unique art pieces out.
