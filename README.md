@@ -1,6 +1,6 @@
 # Hi, I'm Paras Chopra
 
-Founder & CEO of [Lossfunk](https://lossfunk.com), an AI research lab exploring foundational questions in AI and beyond. Previously founded [Wingify](https://wingify.com) (makers of VWO). I write at [invertedpassion.com](https://invertedpassion.com).
+Founder of [Lossfunk](https://lossfunk.com), an AI research lab exploring general intelligence. Previously founded [Wingify](https://wingify.com) (makers of VWO). I write at [invertedpassion.com](https://invertedpassion.com).
 
 ---
 
