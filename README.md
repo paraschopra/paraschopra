@@ -34,7 +34,7 @@ An interactive exploration of all 256 elementary cellular automata rules. Visual
 
 ## Misc
 
-### 🪄 [AI Chinese Whispers](https://github.com/paraschopra/) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/ai-chinese-whispers/)
+### 🪄 [AI Chinese Whispers](https://github.com/paraschopra/ai-chinese-whispers/) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://paraschopra.github.io/ai-chinese-whispers/)
 What happens if you do captioning and image generation multiple times?
 
 ### 🕹️ [Atari from Pixels](https://github.com/paraschopra/atari-pixels)
